@@ -19,7 +19,7 @@
 </div>
 </p>
 <br />
-Hi, I'm [Bruno Raphael](https://brunoraphael.com.br/), a passionate self-taught front-end web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm <a href="https://brunoraphael.com.br/">Bruno Raphael</a>, a passionate self-taught front-end web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
