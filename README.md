@@ -9,16 +9,16 @@
 <a href="https://linkedin.com/in/brcmesquita/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brcmesquita/" width="22" />
 </a>&nbsp
-<a href="https://stackoverflow.com/users/bruno-raphael-c-de-mesquita" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bruno-raphael-c-de-mesquita" width="22" />
-</a>&nbsp
 <a href="https://www.youtube.com/c/uc4h3q-9asdgmvtz_morcu4q" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4h3q-9asdgmvtz_morcu4q" width="22" />
 </a>&nbsp
+<a href="https://stackoverflow.com/users/bruno-raphael-c-de-mesquita" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bruno-raphael-c-de-mesquita" width="22" />
+</a>&nbsp
  <img src="https://komarev.com/ghpvc/?username=brcmesquita&label=Profile%20views&color=0e75b6&style=flat" alt="brcmesquita" />
 </div>
-</p>
 <br />
+
 Hi, I'm <a href="https://brunoraphael.com.br/">Bruno Raphael</a>, a passionate self-taught front-end web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -72,8 +72,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h1 align="center">📊 This week i spent my time on</h1>
 
+<div align="center">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+</div>
 
 <br /><br />
 
@@ -88,9 +90,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <h1 align="center">🚧 My Todoist Stats</h1>
 
+<div align="center">
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-
+</div>
 <br /><br />
 
 <h1 align="center">📈 My Github Stats</h1>
