@@ -1,4 +1,4 @@
-<h2 align="center">Heeeello there</h2>
+<h2 align="center">👋 Heeeello there!</h2>
 <a href="https://www.instagram.com/brcmesquita/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brcmesquita/" width="22" />
 </a>&nbsp
@@ -14,9 +14,9 @@
 <a href="https://www.youtube.com/c/uc4h3q-9asdgmvtz_morcu4q" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4h3q-9asdgmvtz_morcu4q" width="22" />
 </a>&nbsp
-  
-![](https://komarev.com/ghpvc/?username=brcmesquita&label=Profile%20views&color=0e75b6&style=flat)
+ <img align="center" src="https://komarev.com/ghpvc/?username=brcmesquita&label=Profile%20views&color=0e75b6&style=flat" alt="brcmesquita" />
 
+</p>
 <br />
 Hi, I'm [Bruno Raphael](https://brunoraphael.com.br/), a passionate self-taught front-end web developer and a freelance software engineer from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
