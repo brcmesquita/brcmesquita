@@ -9,11 +9,11 @@
 <a href="https://linkedin.com/in/brcmesquita/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brcmesquita/" width="22" />
 </a>&nbsp
-<a href="https://www.youtube.com/c/uc4h3q-9asdgmvtz_morcu4q" target="blank">
+<a href="https://www.youtube.com/channel/uc4h3q-9asdgmvtz_morcu4q" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc4h3q-9asdgmvtz_morcu4q" width="22" />
 </a>&nbsp
-<a href="https://stackoverflow.com/users/bruno-raphael-c-de-mesquita" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bruno-raphael-c-de-mesquita" width="22" />
+<a href="https://stackoverflow.com/users/9330772" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Bruno Raphael's StackOverflow" width="22" />
 </a>&nbsp
  <img src="https://komarev.com/ghpvc/?username=brcmesquita&label=Profile%20views&color=0e75b6&style=flat" alt="brcmesquita" />
 </div>
