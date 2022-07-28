@@ -82,7 +82,7 @@ PHP          0 secs          ░░░░░░░░░░░░░░░░░
 <h1 align="center">🚧 My Todoist Stats</h1>
 
 <!-- TODO-IST:START -->
-🏆  3,766 Karma Points           
+🏆  3,814 Karma Points           
 🌸  Completed 8 tasks today           
 ✅  Completed 171 tasks so far           
 ⏳  Longest streak is 5 days
