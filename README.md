@@ -48,8 +48,8 @@ Markdown   1 hr            █████████████████�
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  4,739 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 248 tasks so far           
+🏆  4,763 Karma Points           
+🌸  Completed 12 tasks today           
+✅  Completed 260 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
