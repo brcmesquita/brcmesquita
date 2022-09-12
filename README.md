@@ -38,7 +38,7 @@ Sometimes I use PostgreSQL, Docker, NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-Other   6 mins          █████████████████████████   100.00 %
+Other   26 mins         ████████████████████████▓   98.78 %
 ```
 
 <!--END_SECTION:waka-->
