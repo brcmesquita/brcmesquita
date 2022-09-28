@@ -38,7 +38,8 @@ Sometimes I use PostgreSQL, Docker, NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash    2 mins          ████████████████████████░   95.75 %
+Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
