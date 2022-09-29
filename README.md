@@ -38,8 +38,8 @@ Sometimes I use PostgreSQL, Docker, NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-Bash    2 mins          ████████████████████████░   95.75 %
-Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Bash    3 mins          ████████████████████████▒   96.68 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
