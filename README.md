@@ -38,7 +38,8 @@ Sometimes I use PostgreSQL, Docker, NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-HTML   33 mins         █████████████████████████   100.00 %
+HTML   33 mins         ███████████████████████░░   92.18 %
+PHP    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->
