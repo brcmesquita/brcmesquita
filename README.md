@@ -49,7 +49,7 @@ PHP   2 mins          ███████████████████�
 
 <!-- TODO-IST:START -->
 🏆  8,851 Karma Points           
-🌸  Completed 5 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 719 tasks so far           
 ⏳  Longest streak is 8 days
 <!-- TODO-IST:END -->
