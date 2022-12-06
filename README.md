@@ -38,10 +38,7 @@ Sometimes I use PostgreSQL, Docker, NodeJS.
 <!--START_SECTION:waka-->
 
 ```text
-PHP         1 hr 55 mins    ████████████████▓░░░░░░░░   66.93 %
-Batchfile   34 mins         █████░░░░░░░░░░░░░░░░░░░░   20.06 %
-Text        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Other       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
