@@ -1,4 +1,6 @@
-## Hey there! I'm Raphael! Welcome to my GitHub page!
+## Hey there! 
+
+I'm Raphael! Welcome to my GitHub page!
 
 I hope help you with my stuffs here.
 
