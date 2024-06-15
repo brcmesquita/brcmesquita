@@ -1,6 +1,6 @@
 ## Hey there! 
 
-I'm Raphael! Welcome to my GitHub page!
+I'm Raphael. Welcome to my GitHub page!
 
 I love PHP, and now I'm in love with Laravel.
 
