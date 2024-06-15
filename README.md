@@ -2,6 +2,8 @@
 
 I'm Raphael! Welcome to my GitHub page!
 
+I love PHP, and now I'm in love with Laravel.
+
 I hope help you with my stuffs here.
 
 📫 [brcmesquita@gmail.com](mailto:brcmesquita@gmail.com)<br/>
